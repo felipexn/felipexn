@@ -1,6 +1,6 @@
 Luiz Felipe. <br/>
 21 anos.<br/>
-Eng. computaçao 6° semestre.
+Eng. computaçao 7° semestre.
 
 
 
