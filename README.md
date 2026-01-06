@@ -17,4 +17,6 @@ Sou Engenheiro de Computação formado pela UNIFESSPA, com experiência em desen
 🔗 LinkedIn: https://www.linkedin.com/in/luiz-felipe-souza-vasconcelos-895730348/
 
 ### 📊 Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexn&theme=radical&layout=compact" />
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexn&layout=compact&theme=radical&langs_count=8&cache_seconds=86400" />
+
