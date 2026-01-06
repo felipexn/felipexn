@@ -18,6 +18,6 @@ Sou Engenheiro de Computação formado pela UNIFESSPA, com experiência em desen
 
 ### 📊 Estatísticas
 <img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexn&layout=compact&theme=tokyonight" />
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipexn&layout=compact&theme=radical" />
 
 
