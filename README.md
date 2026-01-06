@@ -16,8 +16,6 @@ Sou Engenheiro de Computação formado pela UNIFESSPA, com experiência em desen
 🔗 https://github.com/felipexn  
 🔗 LinkedIn: https://www.linkedin.com/in/luiz-felipe-souza-vasconcelos-895730348/
 
-### 📊 Estatísticas
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipexn&layout=compact&theme=radical" />
+
 
 
